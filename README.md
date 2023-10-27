@@ -5,7 +5,7 @@
   
 <p align="justify">  </p>
   <p align="justify">
-   I worked on this project as a part of the Society Internship at IIIT Bhagalpur. The objective was to work on a problem faced by the Indigenous people of Canada. So my focus was to work on mental well-being in the Indigenous community. I have read several articles and papers where different facts came up such as
+   I worked on this project as a part of the Society Internship at IIIT Bhagalpur. The objective was to work on a problem faced by the people mainly in india. So my focus was to work on mental well-being in the Indigenous community. I have read several articles and papers where different facts came up such as
     <ol>
       <li>A study conducted in 1988 in the US shows that men are more likely to be diagnosed with mental disorders than women (46% vs. 18.4%)</li>
       <li>The value of myth and storytelling in a physiological process.</li>
